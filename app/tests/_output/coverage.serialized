@@ -1,0 +1,308 @@
+<?php
+$coverage = new SebastianBergmann\CodeCoverage\CodeCoverage;
+$coverage->setData(array (
+  '/var/www/public/app/services/Users.php' => 
+  array (
+    16 => 
+    array (
+      0 => 'UserServiceTest::testReadUserCorrect',
+      1 => 'UserServiceTest::testValidateDataInCorrect',
+      2 => 'UserServiceTest::testCreateUserCorrect',
+      3 => 'UserServiceTest::testReadUserInCorrect',
+      4 => 'UserServiceTest::testUpdateUserInCorrect',
+      5 => 'UserServiceTest::testCreateUserExisting',
+      6 => 'UserServiceTest::testDeleteUserCorrect',
+      7 => 'UserServiceTest::testDeleteUserInCorrect',
+      8 => 'UserServiceTest::testUpdateUserCorrect',
+      9 => 'UserServiceTest::testInitializedInstanceCorrect',
+      10 => 'UserServiceTest::testValidateDataCorrect',
+      11 => 'UserServiceTest::testCreateUserInCorrect',
+    ),
+    17 => 
+    array (
+      0 => 'UserServiceTest::testReadUserCorrect',
+      1 => 'UserServiceTest::testValidateDataInCorrect',
+      2 => 'UserServiceTest::testCreateUserCorrect',
+      3 => 'UserServiceTest::testReadUserInCorrect',
+      4 => 'UserServiceTest::testUpdateUserInCorrect',
+      5 => 'UserServiceTest::testCreateUserExisting',
+      6 => 'UserServiceTest::testDeleteUserCorrect',
+      7 => 'UserServiceTest::testDeleteUserInCorrect',
+      8 => 'UserServiceTest::testUpdateUserCorrect',
+      9 => 'UserServiceTest::testInitializedInstanceCorrect',
+      10 => 'UserServiceTest::testValidateDataCorrect',
+      11 => 'UserServiceTest::testCreateUserInCorrect',
+    ),
+    26 => 
+    array (
+      0 => 'UserServiceTest::testValidateDataInCorrect',
+      1 => 'UserServiceTest::testValidateDataCorrect',
+    ),
+    27 => 
+    array (
+      0 => 'UserServiceTest::testValidateDataInCorrect',
+      1 => 'UserServiceTest::testValidateDataCorrect',
+    ),
+    28 => 
+    array (
+      0 => 'UserServiceTest::testValidateDataInCorrect',
+      1 => 'UserServiceTest::testValidateDataCorrect',
+    ),
+    29 => 
+    array (
+      0 => 'UserServiceTest::testValidateDataInCorrect',
+      1 => 'UserServiceTest::testValidateDataCorrect',
+    ),
+    31 => 
+    array (
+      0 => 'UserServiceTest::testValidateDataInCorrect',
+    ),
+    32 => 
+    array (
+      0 => 'UserServiceTest::testValidateDataInCorrect',
+      1 => 'UserServiceTest::testValidateDataCorrect',
+    ),
+    35 => 
+    array (
+      0 => 'UserServiceTest::testValidateDataInCorrect',
+      1 => 'UserServiceTest::testValidateDataCorrect',
+    ),
+    36 => NULL,
+    44 => 
+    array (
+      0 => 'UserServiceTest::testCreateUserCorrect',
+      1 => 'UserServiceTest::testCreateUserExisting',
+      2 => 'UserServiceTest::testCreateUserInCorrect',
+    ),
+    46 => 
+    array (
+      0 => 'UserServiceTest::testCreateUserCorrect',
+      1 => 'UserServiceTest::testCreateUserExisting',
+      2 => 'UserServiceTest::testCreateUserInCorrect',
+    ),
+    47 => 
+    array (
+      0 => 'UserServiceTest::testCreateUserCorrect',
+      1 => 'UserServiceTest::testCreateUserExisting',
+      2 => 'UserServiceTest::testCreateUserInCorrect',
+    ),
+    49 => 
+    array (
+      0 => 'UserServiceTest::testCreateUserExisting',
+    ),
+    52 => 
+    array (
+      0 => 'UserServiceTest::testCreateUserCorrect',
+      1 => 'UserServiceTest::testCreateUserInCorrect',
+    ),
+    53 => 
+    array (
+      0 => 'UserServiceTest::testCreateUserCorrect',
+      1 => 'UserServiceTest::testCreateUserInCorrect',
+    ),
+    54 => 
+    array (
+      0 => 'UserServiceTest::testCreateUserCorrect',
+    ),
+    55 => 
+    array (
+      0 => 'UserServiceTest::testCreateUserCorrect',
+    ),
+    57 => 
+    array (
+      0 => 'UserServiceTest::testCreateUserInCorrect',
+    ),
+    60 => 
+    array (
+      0 => 'UserServiceTest::testCreateUserCorrect',
+      1 => 'UserServiceTest::testCreateUserExisting',
+      2 => 'UserServiceTest::testCreateUserInCorrect',
+    ),
+    61 => NULL,
+    69 => 
+    array (
+      0 => 'UserServiceTest::testReadUserCorrect',
+      1 => 'UserServiceTest::testReadUserInCorrect',
+    ),
+    71 => 
+    array (
+      0 => 'UserServiceTest::testReadUserCorrect',
+      1 => 'UserServiceTest::testReadUserInCorrect',
+    ),
+    72 => 
+    array (
+      0 => 'UserServiceTest::testReadUserCorrect',
+      1 => 'UserServiceTest::testReadUserInCorrect',
+    ),
+    75 => 
+    array (
+      0 => 'UserServiceTest::testReadUserCorrect',
+    ),
+    76 => 
+    array (
+      0 => 'UserServiceTest::testReadUserCorrect',
+    ),
+    77 => 
+    array (
+      0 => 'UserServiceTest::testReadUserCorrect',
+    ),
+    80 => 
+    array (
+      0 => 'UserServiceTest::testReadUserInCorrect',
+    ),
+    82 => 
+    array (
+      0 => 'UserServiceTest::testReadUserCorrect',
+      1 => 'UserServiceTest::testReadUserInCorrect',
+    ),
+    83 => NULL,
+    91 => 
+    array (
+      0 => 'UserServiceTest::testUpdateUserInCorrect',
+      1 => 'UserServiceTest::testUpdateUserCorrect',
+    ),
+    94 => 
+    array (
+      0 => 'UserServiceTest::testUpdateUserInCorrect',
+      1 => 'UserServiceTest::testUpdateUserCorrect',
+    ),
+    95 => 
+    array (
+      0 => 'UserServiceTest::testUpdateUserInCorrect',
+      1 => 'UserServiceTest::testUpdateUserCorrect',
+    ),
+    96 => 
+    array (
+      0 => 'UserServiceTest::testUpdateUserInCorrect',
+      1 => 'UserServiceTest::testUpdateUserCorrect',
+    ),
+    99 => 
+    array (
+      0 => 'UserServiceTest::testUpdateUserCorrect',
+    ),
+    100 => 
+    array (
+      0 => 'UserServiceTest::testUpdateUserCorrect',
+    ),
+    103 => 
+    array (
+      0 => 'UserServiceTest::testUpdateUserInCorrect',
+    ),
+    105 => 
+    array (
+      0 => 'UserServiceTest::testUpdateUserInCorrect',
+      1 => 'UserServiceTest::testUpdateUserCorrect',
+    ),
+    106 => NULL,
+    110 => 
+    array (
+      0 => 'UserServiceTest::testDeleteUserCorrect',
+      1 => 'UserServiceTest::testDeleteUserInCorrect',
+    ),
+    112 => 
+    array (
+      0 => 'UserServiceTest::testDeleteUserCorrect',
+      1 => 'UserServiceTest::testDeleteUserInCorrect',
+    ),
+    113 => 
+    array (
+      0 => 'UserServiceTest::testDeleteUserCorrect',
+      1 => 'UserServiceTest::testDeleteUserInCorrect',
+    ),
+    115 => 
+    array (
+      0 => 'UserServiceTest::testDeleteUserCorrect',
+    ),
+    116 => 
+    array (
+      0 => 'UserServiceTest::testDeleteUserCorrect',
+    ),
+    117 => 
+    array (
+      0 => 'UserServiceTest::testDeleteUserCorrect',
+    ),
+    119 => 
+    array (
+      0 => 'UserServiceTest::testDeleteUserCorrect',
+    ),
+    122 => 
+    array (
+      0 => 'UserServiceTest::testDeleteUserInCorrect',
+    ),
+    124 => 
+    array (
+      0 => 'UserServiceTest::testDeleteUserCorrect',
+      1 => 'UserServiceTest::testDeleteUserInCorrect',
+    ),
+    125 => NULL,
+  ),
+));
+$coverage->setTests(array (
+  'UserServiceTest::testReadUserCorrect' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'UserServiceTest::testValidateDataInCorrect' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'UserServiceTest::testCreateUserCorrect' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'UserServiceTest::testReadUserInCorrect' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'UserServiceTest::testUpdateUserInCorrect' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'UserServiceTest::testCreateUserExisting' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'UserServiceTest::testDeleteUserCorrect' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'UserServiceTest::testDeleteUserInCorrect' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'UserServiceTest::testUpdateUserCorrect' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'UserServiceTest::testInitializedInstanceCorrect' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'UserServiceTest::testValidateDataCorrect' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+  'UserServiceTest::testCreateUserInCorrect' => 
+  array (
+    'size' => 'unknown',
+    'status' => 0,
+  ),
+));
+
+$filter = $coverage->filter();
+$filter->setWhitelistedFiles(array (
+  '/var/www/public/app/services/Users.php' => true,
+));
+
+return $coverage;
